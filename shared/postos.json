@@ -1,0 +1,26 @@
+[
+    {
+        "id": "PC-101",
+        "local": "Campus",
+        "potenciakw": 22,
+        "disponivel": true,
+        "categoria": "público",
+        "tipo": "AC"
+    },
+    {
+        "id": "PC-102",
+        "local": "Terminal",
+        "potenciakw": 50,
+        "disponivel": false,
+        "categoria": "privado",
+        "tipo": "DC"
+    },
+    {
+        "id": "PC-103",
+        "local": "Regimento Infantaria 14",
+        "potenciakw": 75,
+        "disponivel": false,
+        "categoria": "público",
+        "tipo": "DC"
+    }
+]
