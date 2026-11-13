@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
 });
 
 // Ligar ao MongoDB Atlas
-const URL = "mongodb+srv://gabriel95_db_user:feijao@cluster0.cqcaaih.mongodb.net/";
+const URL = "mongodb+srv://rui:rui@cluster0.u57cxff.mongodb.net/rede_carregamento_ficha3";
 
 mongoose.connect(URL)
     .then(() => {
